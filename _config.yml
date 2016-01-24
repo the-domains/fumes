@@ -1,0 +1,28 @@
+name: Fumes
+favicon: null
+layout_spectrum: 0.4266708572395146
+typography_spectrum: 0.7010834719985723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9596915307920426
+  lightness: 0.5428534080274403
+  saturation: 0.7049654957372695
+  rhythmicContrast: 0.8133396566845477
+purpose: []
